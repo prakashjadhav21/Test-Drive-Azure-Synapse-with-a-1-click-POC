@@ -26,7 +26,7 @@
 				"display_name": "Synapse PySpark"
 			},
 			"language_info": {
-				"name": "python"
+				"name": "csharp"
 			},
 			"a365ComputeOptions": {
 				"id": "/subscriptions/718ca83e-eee4-4a5d-8d46-6b223f0f98c9/resourceGroups/SypnesOne/providers/Microsoft.Synapse/workspaces/con4u7yrb7ic3pqupocws1/bigDataPools/ws1sparkpool1",
